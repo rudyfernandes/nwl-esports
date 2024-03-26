@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/rudyfernandes/nwl-esports)
+![GitHub License](https://img.shields.io/github/license/rudyfernandes/nwl-esports)
+
+
 # NLW eSports 
 > Trilha Explorer
 
